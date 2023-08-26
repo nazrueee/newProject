@@ -4,6 +4,7 @@
   "description": "",
   "main": "carsData.js",
   "scripts": {
+    "start":"node carsServer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
